@@ -27,14 +27,15 @@ body {
 }
 .main input,button{
     width: 100px;
-    height: 30px;
+    height: 40px;
     border: none;
     outline: none;
-    padding-left: 10px;
+    padding-left: 12px;
     box-sizing: border-box;
     font-size: 15px;
     color: #333;
     margin-bottom: 10px;
+    border-radius: 100px;
 }
 .main button {
     padding-left: 0%;
